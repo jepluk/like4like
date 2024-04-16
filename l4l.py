@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 from requests.exceptions import ConnectionError
 
-password = 'akun123'
-account = ['jamalud', 'azzamxyz', 'tukimins', 'tukimans', 'animexyz']
+password = 'passwrod_akun'
+account = ['username_akun']
 credits = 'Meizug'
 host    = 'https://www.like4like.org/'
 feature = list()
